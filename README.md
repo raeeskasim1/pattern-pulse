@@ -2,6 +2,8 @@
 
 A nine-tile memory game. Watch the flashes and repeat their order. Each successful round adds one beat.
 
+https://raeeskasim1.github.io/pattern-pulse/
+
 ## Play
 
 - Choose **Relaxed** or **Quick** before starting.
